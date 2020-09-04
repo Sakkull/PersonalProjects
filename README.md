@@ -1,6 +1,7 @@
 
 
 #### **INTRODUCTION**
+Hello, my name is Alexandru Buzamat, I have finished a BSc in Applied Psychology at University of Leicester UK and I am looking to develop my analytics skills in order to become a data analyst.
 
 This repository holds all my projects that I have done over the years. They were all made using SPSS, but will be remade soon using R, as I am currently learning it.<br>
 
