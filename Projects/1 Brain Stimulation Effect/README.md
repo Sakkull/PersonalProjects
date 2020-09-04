@@ -14,16 +14,19 @@ The main hypotheses were:
 &nbsp;
 ***
 ## **DESIGN**
+Participants were split into 2 groups (Anodal and Sham), they all then had to go through the same 4 phases on the computer: Pavlovian (acquiring the fear response to a stimulus i.e. loud noise coming from headphones), Instrumental acquisition (acquiring the escape response upon presentation of the previously conditioned stimulus), Instrumental Extinction (relearning that the stimulus is no longer to be feared) and Test phase (presentation of the stimuli again). The Pavlovian and Instrumental acquisition phases happened in the same context (given by the color of the background of the screen), while Extinction phase happened in a new context. During the Test phase, all stimuli were presented in both contexts.
 &nbsp;
 ![](images/1.JPG)
 &nbsp;
 
-Anodal group = group receivig stimulation 
-Sham group = no stimulation group
-CS = Conditioned Stimulus
-CS+ = Conditioned stimulus followed by the presentation of a loud sound
-CS- = Conditioned stimulus not followed by the presentation of a loud sound
+Anodal group = group receivig stimulation,
+Sham group = no stimulation group,
+CS = Conditioned Stimulus,
+CS+ = Conditioned stimulus followed by the presentation of a loud sound,
+CS- = Conditioned stimulus not followed by the presentation of a loud sound;
+&nbsp;
 Each phase consisted of different amount of Blocks (each block had 2 presentations of each CS):
+
 1)  Pavlovian learning phase: 4 Blocks
 2) Instrumental acquisition: 4 Blocks
 3) Instrumental Extinction: 8 Blocks
