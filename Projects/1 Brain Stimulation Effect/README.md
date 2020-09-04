@@ -15,7 +15,7 @@ The main hypotheses were:
 ***
 #### **DESIGN**
 &nbsp;
-![](images/1.png)
+![](images/1.JPG)
 &nbsp;
 
 Anodal group = group receivig stimulation 
