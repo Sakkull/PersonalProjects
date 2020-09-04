@@ -12,7 +12,7 @@ There are 7 projects decreasing in complexity, so number 7 being the most comple
 
 ##### 1. [2x2x2 Mixed ANOVA - _'Brain Stimulation effect on Fear Renewal'_](https://github.com/Sakkull/PersonalProjects/tree/master/Projects/1%20Brain%20Stimulation%20Effect)
 
-##### 2. 2x2 Mixed ANOVA - _'Variables affecting victim blaming in sexual abuse'_
+##### 2. [2x2 Mixed ANOVA - _'Variables affecting victim blaming in sexual abuse'_](https://github.com/Sakkull/PersonalProjects/tree/master/Projects/2%20Mixed%20ANOVA%20-%20'Variables%20affecting%20victim%20blaming%20in%20sexual%20abuse')
 
 ##### 3. 2x2 Repeated ANOVA - _'The effects of temporal stress and familiarity on number of errors made in a naming task'_
 
