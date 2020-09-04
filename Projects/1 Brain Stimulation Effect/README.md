@@ -14,7 +14,9 @@ The main hypotheses were:
 &nbsp;
 ***
 #### **DESIGN**
+&nbsp;
 ![](images/1.png)
+&nbsp;
 
 Anodal group = group receivig stimulation 
 Sham group = no stimulation group
