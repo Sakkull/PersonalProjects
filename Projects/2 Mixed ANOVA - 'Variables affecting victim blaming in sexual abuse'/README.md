@@ -17,7 +17,7 @@ Using the online survey, participants had to read a scenario presenting an IBSA 
 The descriptive statistics for victim blame in each condition are shown in Table 1.
 ![](images/2.JPG)
 &nbsp;
-&nbsp;
+
 Data was analyzed using a mixed measure ANOVA. There was no significant main effect of endorsement F(1, 62) = .03, p = .84, η² = .001. Similarly, there was also no effect of cheating F(1, 62) = .91, p = .34, η² = .015. There was a non-significant two-way interaction of endorsement to IBSA and cheating F(1, 62) = .07, p = .78, η² = .001.
 &nbsp;
 &nbsp;
