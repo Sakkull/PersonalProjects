@@ -14,11 +14,11 @@ Using the online survey, participants had to read a scenario presenting an IBSA 
 &nbsp;
 ***
 #### **RESULTS**
-The descriptive statistics for victim blame in each condition are shown in Table 1.
+The descriptive statistics for victim blame in each condition are shown in Table 1. These numbers can indicate that IBSA endorsement and cheating are two factors that might increase victim blaming.
 ![](images/2.JPG)
 &nbsp;
 
-Data was analyzed using a mixed measure ANOVA. There was no significant main effect of endorsement F(1, 62) = .03, p = .84, η² = .001. Similarly, there was also no effect of cheating F(1, 62) = .91, p = .34, η² = .015. There was a non-significant two-way interaction of endorsement to IBSA and cheating F(1, 62) = .07, p = .78, η² = .001.
+Data was analyzed using a mixed measure ANOVA. Although the mean scores indicate an increase in victim blaming due to cheating and IBSA endorsement, there was no significant main effect of endorsement F(1, 62) = .03, p = .84, η² = .001. Similarly, there was also no effect of cheating F(1, 62) = .91, p = .34, η² = .015. There was a non-significant two-way interaction of endorsement to IBSA and cheating F(1, 62) = .07, p = .78, η² = .001. Therefore, although at first glance these might appear to indicate what increases victim blame, the non-significant results suggest otherwise.
 &nbsp;
 &nbsp;
 ![](images/1.JPG)
