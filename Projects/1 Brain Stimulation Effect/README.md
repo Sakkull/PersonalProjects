@@ -45,10 +45,10 @@ The 2x4 ANOVA revealed a main effect of Stimulus, F (1, 10) = 6.97, p < .05, ηp
 &nbsp;
 A Stimulus x Block interaction was also observed, F (3, 30) = 12.20, p < .01, ηp² = .55. Analyses of simple effects revealed a large effect of Block for CSs+, F (3, 30) = 13.75, p < .01, ηp² = .57, but a non-significant effect for CSs-, F (3, 30) = 1.19, p = .33, ηp² = .10. The interaction thus suggests that acquisition of response was observed for CSs+ but not for CSs-.
 ![](images/2.JPG)
-&nbsp;
+
 2) ### **Extinction:**
 &nbsp;
-The mean number of responses and the standard deviations for the Extinction phase can be seen in Table 1.
+The mean number of responses and the standard deviations for the Extinction phase can be seen in Table 2.
 ![](images/11.JPG)
 &nbsp;
 A 2 (Stimulus: CSs+ vs CSs-) x 2 (Group: Anodal vs Sham) x 8 (Blocks 1-8) mixed ANOVA revealed a main effect of stimulus F (1, 9) = 6.43, p = .03, ηp² = .41, but no effect of Block or interaction. The main effect of group was marginally not significant F (1, 9) = 3.66, p = .08, ηp² = .28. This suggests that extinction did not happen as there was no main effect of Block, however, there was a significant difference to the number of responses for each CS, space bar being pressed a lot more for the CSs+ than CSs-. In addition, although not significant, the anodal group seemed to press space bar more often than the sham group. 
@@ -56,7 +56,7 @@ A 2 (Stimulus: CSs+ vs CSs-) x 2 (Group: Anodal vs Sham) x 8 (Blocks 1-8) mixed 
 &nbsp;
 3) ### **Test:** 
 &nbsp;
-The mean number of responses and the standard deviations for the Test phase can be seen in Table 1.
+The mean number of responses and the standard deviations for the Test phase can be seen in Table 3.
 ![](images/11.JPG)
 &nbsp;
 The Test data were analyzed with a 2 (Stimulus: CSs+ vs CSs-) x 2 (Group: Anodal vs Sham) x 2 (Context: Acquisition vs Extinction) mixed ANOVA, which revealed an effect of Stimulus, F (1, 9) = 6.63, p = .03, ηp² = .42 and a triple interaction of Stimulus, Context and Group, F (1, 9) = 8,17, p = .01, ηp² = .47. 
