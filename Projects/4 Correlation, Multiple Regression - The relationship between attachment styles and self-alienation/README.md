@@ -28,7 +28,7 @@ Similarly, the analysis found a positive significant correlation between avoidan
 However, the result showed a negative significant correlation between the secure attachment type (M= 18.19, SD=2.92) and self-alienation r (183) = -0.154, p<.05. This indicates, when scores on secure attachment increased, the scores on self-alienation consequently decreased.
 
 _Figure 1_ Scatter Plot correlation between self-alientation and the 3 attachment styles
-![](images/1.JPG)
+![](images/1.jpg)
 
 A partial correlation was run to determine the relationship between self-alienation and the three attachment styles whilst controlling for self-liking. There was a negative correlation between self-alienation and the secure attachment whilst controlling for self-liking but it was statistically not significant, r = -.101, p = .176. Similarly, the positive correlation between self-alienation and avoidant attachment whilst controlling for self-liking was statistically non-significant r = 0.093, p = .21. However, the positive correlation between self-alienation and the ambivalent attachment style was statistically significant r = .217, p < .05 .
 
