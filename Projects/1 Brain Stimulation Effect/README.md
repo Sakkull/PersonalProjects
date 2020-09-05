@@ -39,6 +39,7 @@ The software registered the number of escape responses the participant displayed
 ### 1) **Acquisition:** 
 &nbsp;
 The mean number of responses and the standard deviations for the Acquisition phase can be seen in Table 1.
+
 _Table 1_: Mean scores and Standard Deviations for Space Bar presses across the 4 Blocks of Acquisition for CS+/CS-
 ![](images/11.JPG)
 
