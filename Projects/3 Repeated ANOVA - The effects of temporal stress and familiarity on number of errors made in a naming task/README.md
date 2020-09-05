@@ -2,9 +2,9 @@
 &nbsp;
 #### **INTRODUCTION**
 The purpose of this study was to determine if temporal stress and familiarity would increase errors in healthy participants, which might help future imaging studies to have a baseline between aphasic and healthy participants. 
-&nbsp;
+
 This is done due to the need to see the effects of aphasia treatment on aphasic patients compared to healthy subjects. However, this is hard to be done at the moment because there is a big disparity between these 2 groups and thus hard to estimate the effectiveness of the treatment.
-&nbsp;
+
 Therefore, this current study hypothesizes that temporal stress will significantly influence the number of errors made by participants, while familiarity will also significantly influence the number of errors made. Finally, it is hypothesized that there will be an interaction between temporal stress and familiarity for naming errors.
 
 &nbsp;
