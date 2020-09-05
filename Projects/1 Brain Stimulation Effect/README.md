@@ -39,6 +39,7 @@ The software registered the number of escape responses the participant displayed
 ### 1) **Acquisition:** 
 &nbsp;
 The mean number of responses and the standard deviations for the Acquisition phase can be seen in Table 1.
+_Table 1_: Mean scores and Standard Deviations for Space Bar presses across the 4 Blocks of Acquisition for CS+/CS-
 ![](images/11.JPG)
 
 The 2x4 ANOVA revealed a main effect of Stimulus, F (1, 10) = 6.97, p < .05, ηp² = .41 and a significant main effect of Block, F (3, 30) = 8.51, p < .01, ηp² = .46. 
