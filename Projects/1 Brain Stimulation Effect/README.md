@@ -46,6 +46,7 @@ _Table 1_: Mean scores and Standard Deviations for Space Bar presses across the 
 The 2x4 ANOVA revealed a main effect of Stimulus, F (1, 10) = 6.97, p < .05, ηp² = .41 and a significant main effect of Block, F (3, 30) = 8.51, p < .01, ηp² = .46. 
 &nbsp;
 A Stimulus x Block interaction was also observed, F (3, 30) = 12.20, p < .01, ηp² = .55. Analyses of simple effects revealed a large effect of Block for CSs+, F (3, 30) = 13.75, p < .01, ηp² = .57, but a non-significant effect for CSs-, F (3, 30) = 1.19, p = .33, ηp² = .10. The interaction thus suggests that acquisition of response was observed for CSs+ but not for CSs-.
+
 _Figure 1_: Average responses per block during acquisition. An increase in responses can be observed for CS+, but not significant for CS-.
 ![](images/2.JPG)
 
