@@ -17,7 +17,7 @@ There are 7 projects decreasing in complexity, so number 7 being the most comple
 
 ##### 3. [2x2 Repeated ANOVA - _'The effects of temporal stress and familiarity on number of errors made in a naming task'_](https://github.com/Sakkull/PersonalProjects/blob/master/Projects/3%20Repeated%20ANOVA%20-%20The%20effects%20of%20temporal%20stress%20and%20familiarity%20on%20number%20of%20errors%20made%20in%20a%20naming%20task/README.md)
 
-##### 4. Correlation & Multiple Regression - _'The relationship between attachment styles and self-alienation'_
+##### 4. [Correlation & Multiple Regression - _'The relationship between attachment styles and self-alienation'_](https://github.com/Sakkull/PersonalProjects/tree/master/Projects/4%20Correlation%2C%20Multiple%20Regression%20-%20The%20relationship%20between%20attachment%20styles%20and%20self-alienation)
 
 ##### 5. Logistic Regression - _'Can impulsivity, empathy and pro-criminal attitudes predict reconviction?'_
 
