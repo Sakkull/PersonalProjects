@@ -21,6 +21,7 @@ In the slow block the images were presented for 5 seconds with a fixation cross 
 The mean numbers of errors in each condition is shown in Table 1.
 
 _Table 1_ Descriptive statistics for error scores.
+
 ![](images/1.JPG)
 
 Data was analysed using a two-way repeated measure ANOVA. There was a significant main effect of temporal stress F(1, 24) = 18.57, p < 0.01, η2p = 0.43. There were less errors when there was no deadline than when there was a deadline (See Figure 1). Also, there was a significant effect of familiarity F(1, 24) = 71.50, p < 0.01, η2p = 0.79. There were more errors made when stimuli presented low familiarity than high familiarity (See Figure 1). However, there was a non-significant two-way interaction of temporal stress and familiarity, F(1, 24) = 0.015, p = .905, η2 = .001 .
@@ -31,6 +32,6 @@ _Figure 1_ Mean Error for temporal stress and familiarity
 
 ***
 #### **Conclusion**
-This current study set out to examine whether temporal stress and familiarity manipulation would result in an increase in the errors made by healthy participants in a naming task. Findings supported two of the three hypothesis by observing that there was a significant effect of temporal stress, suggesting that participants who had to name the stimuli while having a deadline would produce more errors than when there was no deadline. 
+This current study set out to examine whether temporal stress and familiarity manipulation would result in an increase in the errors made by healthy participants in a naming task. **Findings supported two of the three hypothesis** by observing that there was a **significant effect of temporal stress**, suggesting that participants who had to name the stimuli while having a deadline would produce more errors than when there was no deadline. 
 
-Similarly, familiarity also played a significant role in the numbers of errors made, as there were more errors made when the stimuli presented were of low familiarity. However, there was no interaction present, suggesting that the effects of temporal stress did not depend on the level of familiarity, and vice versa. 
+Similarly, **familiarity also played a significant role in the numbers of errors made**, as there were more errors made when the stimuli presented were of low familiarity. **However, there was no interaction present**, suggesting that the effects of temporal stress did not depend on the level of familiarity, and vice versa. 
