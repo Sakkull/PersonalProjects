@@ -53,7 +53,7 @@ The mean number of responses and the standard deviations for the Extinction phas
 &nbsp;
 A 2 (Stimulus: CSs+ vs CSs-) x 2 (Group: Anodal vs Sham) x 8 (Blocks 1-8) mixed ANOVA revealed a main effect of stimulus F (1, 9) = 6.43, p = .03, ηp² = .41, but no effect of Block or interaction. The main effect of group was marginally not significant F (1, 9) = 3.66, p = .08, ηp² = .28. This suggests that extinction did not happen as there was no main effect of Block, however, there was a significant difference to the number of responses for each CS, space bar being pressed a lot more for the CSs+ than CSs-. In addition, although not significant, the anodal group seemed to press space bar more often than the sham group. 
 ![](images/3.JPG)
-&nbsp;
+
 3) ### **Test:** 
 &nbsp;
 The mean number of responses and the standard deviations for the Test phase can be seen in Table 3.
