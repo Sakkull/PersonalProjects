@@ -1,4 +1,4 @@
-# Investigating the relationship between attachment styles and self-alienation
+# Can impulsivity, empathy and pro-criminal attitudes predict reconviction?
 &nbsp;
 #### **INTRODUCTION**
 From various risk assessments it is known that sexual offenders have 'criminogenic' needs in the areas of empathy, emotional regulation and sexual pre-occupation. These are becoming more and more targeted by new interventions and are useful to some. However, at the same time, there are many who are reconvicted and it has been argued that there are some variables that might be able to predict how likely one is to be reconvicted. Therefore, this current study is interested in whether impulsivity, empathy and pro-criminal attitudes can predict reconviction while controlling for the effect of gender.
