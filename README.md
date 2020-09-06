@@ -23,4 +23,4 @@ There are 7 projects decreasing in complexity, so number 7 being the most comple
 
 ##### 6. [Paired t-test - _'Familiarity and gender differences in liking of unisex names'_](https://github.com/Sakkull/PersonalProjects/tree/master/Projects/6%20Paired%20t-test%20-%20'Familiarity%20and%20gender%20differences%20in%20liking%20of%20unisex%20names')
 
-##### 7. Pearson Correlation - _'Superstition and Performance on Different Tasks'_
+##### 7. [Pearson Correlation - _'Superstition and Performance on Different Tasks'_](https://github.com/Sakkull/PersonalProjects/tree/master/Projects/7%20Pearson%20Correlation%20-%20'Superstition%20and%20Performance%20on%20Different%20Tasks')
