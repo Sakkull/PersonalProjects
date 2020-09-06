@@ -3,7 +3,7 @@
 #### **INTRODUCTION**
 Hello, my name is Alexandru Buzamat, I have finished a BSc in Applied Psychology at University of Leicester UK, currently pursuing a Masters in Clinical Research Statistics and I am looking to develop my analytics skills in order to become a data analyst.
 
-This repository holds all my projects that I have done over the years. They were all made using SPSS, but will be remade soon using R, as I am currently learning it.<br>
+This repository holds all my projects that I have done over the years. They were all made using SPSS, but will be remade soon using R and Tableau, as I am currently learning them.<br>
 
 There are 7 projects decreasing in complexity, so number 7 being the most complex, while number 1 being the least complex. Each project will have the analysis done in SPSS along with the reasoning for the analysis in a short introduction to the concepts.
 
