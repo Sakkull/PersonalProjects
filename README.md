@@ -19,7 +19,7 @@ There are 7 projects decreasing in complexity, so number 7 being the most comple
 
 ##### 4. [Correlation & Multiple Regression - _'The relationship between attachment styles and self-alienation'_](https://github.com/Sakkull/PersonalProjects/tree/master/Projects/4%20Correlation%2C%20Multiple%20Regression%20-%20The%20relationship%20between%20attachment%20styles%20and%20self-alienation)
 
-##### 5. Logistic Regression - _'Can impulsivity, empathy and pro-criminal attitudes predict reconviction?'_
+##### 5. [Logistic Regression - _'Can impulsivity, empathy and pro-criminal attitudes predict reconviction?'_](https://github.com/Sakkull/PersonalProjects/blob/master/Projects/5%20Logistic%20Regression%20-%20'Can%20impulsivity,%20empathy%20and%20pro-criminal%20attitudes%20predict%20reconviction'/README.md)
 
 ##### 6. Paired t-test - _'Familiarity and gender differences in liking of unisex names'_
 
