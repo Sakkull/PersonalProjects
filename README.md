@@ -21,6 +21,6 @@ There are 7 projects decreasing in complexity, so number 7 being the most comple
 
 ##### 5. [Logistic Regression - _'Can impulsivity, empathy and pro-criminal attitudes predict reconviction?'_](https://github.com/Sakkull/PersonalProjects/blob/master/Projects/5%20Logistic%20Regression%20-%20'Can%20impulsivity,%20empathy%20and%20pro-criminal%20attitudes%20predict%20reconviction'/README.md)
 
-##### 6. Paired t-test - _'Familiarity and gender differences in liking of unisex names'_
+##### 6. [Paired t-test - _'Familiarity and gender differences in liking of unisex names'_](https://github.com/Sakkull/PersonalProjects/tree/master/Projects/6%20Paired%20t-test%20-%20'Familiarity%20and%20gender%20differences%20in%20liking%20of%20unisex%20names')
 
 ##### 7. Pearson Correlation - _'Superstition and Performance on Different Tasks'_
