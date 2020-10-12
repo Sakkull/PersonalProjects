@@ -1,7 +1,7 @@
 
 
 #### **INTRODUCTION**
-Hello, my name is Alexandru Buzamat, I have finished a BSc in Applied Psychology at University of Leicester UK, currently pursuing a Masters in Clinical Research Statistics and I am looking to develop my analytics skills in order to become a data analyst.
+Hello, my name is Alexandru Buzamat, I have finished a BSc in Applied Psychology at University of Leicester UK, currently pursuing a Masters in Clinical Research Statistics and I am looking to develop my analytical skills in order to become a data analyst/biostatistician.
 
 This repository holds all my projects that I have done over the years. They were all made using SPSS, but will be remade soon using R and Tableau, as I am currently learning them.<br>
 
