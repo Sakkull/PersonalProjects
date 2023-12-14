@@ -14,7 +14,7 @@ The main hypotheses were:
 &nbsp;
 ***
 ## **DESIGN**
-Participants were split into 2 groups: Anodal (with 3mA stimulation for the whole duration) and Sham (no stimulation). They all then had to go through the same 4 phases on the computer: 
+Participants were split into 2 groups: Anodal (with 3mA stimulation for the whole duration) and Sham (no stimulation; this is the placebo group). They all then had to go through the same 4 phases on the computer: 
 - Pavlovian (acquiring the fear response to a stimulus  by pairing 2 of the 4 stimuli to an adverse event i.e. loud noise coming from headphones)
 - Instrumental acquisition (acquiring the escape response upon presentation of the previously conditioned stimulus i.e. being able to press space bar in order to stop the presentation of the adverse event)
 -  Instrumental Extinction (relearning that the stimulus is no longer to be feared i.e. participants still allowed to press space bar but no sound would be presented anyway for all stimuli)
