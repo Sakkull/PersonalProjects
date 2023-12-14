@@ -14,7 +14,12 @@ The main hypotheses were:
 &nbsp;
 ***
 ## **DESIGN**
-Participants were split into 2 groups (Anodal and Sham), they all then had to go through the same 4 phases on the computer: Pavlovian (acquiring the fear response to a stimulus  by pairing 2 of the 4 stimuli to an adverse event i.e. loud noise coming from headphones), Instrumental acquisition (acquiring the escape response upon presentation of the previously conditioned stimulus i.e. being able to press space bar in order to stop the presentation of the adverse event), Instrumental Extinction (relearning that the stimulus is no longer to be feared i.e. participants still allowed to press space bar but no sound would be presented anyway for all stimuli) and Test phase (presentation of the stimuli again). The Pavlovian and Instrumental acquisition phases happened in the same context (given by the color of the background of the screen), while Extinction phase happened in a new context. During the Test phase, all stimuli were presented in both contexts.
+Participants were split into 2 groups (Anodal and Sham), they all then had to go through the same 4 phases on the computer: 
+- Pavlovian (acquiring the fear response to a stimulus  by pairing 2 of the 4 stimuli to an adverse event i.e. loud noise coming from headphones)
+- Instrumental acquisition (acquiring the escape response upon presentation of the previously conditioned stimulus i.e. being able to press space bar in order to stop the presentation of the adverse event)
+-  Instrumental Extinction (relearning that the stimulus is no longer to be feared i.e. participants still allowed to press space bar but no sound would be presented anyway for all stimuli)
+-  Test phase (presentation of the stimuli again, in both acquisition and extinction contexts).
+   The Pavlovian and Instrumental acquisition phases happened in the same context (given by the color of the background of the screen), while Extinction phase happened in a new context. During the Test phase, all stimuli were presented in both contexts.
 &nbsp;
 ![](images/1.JPG)
 &nbsp;
