@@ -1,7 +1,7 @@
 # Transcranial Direct Current Stimulation effect on renewal of instrumental avoidance in humans 
 &nbsp;
 ## **INTRODUCTION**
-We might acquire an unreasonable fear at some point in life and try at a later stage to get rid of it by doing exposure-based therapies, which aim to reduce the fear through gradual exposure to the stimulus (this a process called 'extinction'). This usually works when tested in the context of therapy (i.e. the room where the therapy happened), however, once the person steps into the real world, the fear most often reapers. This is called 'the renewal effect' and it happens because learning happens not only between a stimulus and a reaction but also while taking into account the context. Therefore, you would have to enhance the extinction process to overcome the renewal
+We might acquire an unreasonable fear at some point in life and try at a later stage to get rid of it by doing exposure-based therapies, which aim to reduce the fear through gradual exposure to the stimulus (this is a process called 'extinction'). This usually works when tested in the context of therapy (i.e. the room where the therapy happened), however, once the person steps into the real world, the fear most often reapers. This is called 'the renewal effect' and it happens because learning happens not only between a stimulus and a reaction but also while taking into account the context. Therefore, you would have to enhance the extinction process to overcome the renewal
 effect. 
 &nbsp;
 In order to overcome this effect, you can use brain stimulation on dorsolateral prefrontal cortex in the hopes of enhancing the extinction process.
