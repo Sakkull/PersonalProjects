@@ -1,11 +1,13 @@
 
 
 #### **INTRODUCTION**
-Hello, my name is Alexandru Buzamat, I have finished a BSc in Applied Psychology at University of Leicester UK, currently pursuing a Masters in Clinical Research Statistics and I am looking to develop my analytical skills in order to become a data analyst/biostatistician.
+Hello, my name is Alexandru Buzamat, I have finished a BSc in Applied Psychology at University of Leicester UK, pursued a Masters in Clinical Research Statistics and worked for a few years as Data Anlyst and Statistical Programmer. I am currently doing a PhD in Brain-Computer Interface at Technical University Gheorghe Asachi Iasi.
 
-This repository holds all my projects that I have done over the years. They were all made using SPSS, but will be remade soon using R and Tableau, as I am currently learning them.<br>
+This repository holds all my projects that I have done over the years of my BSc. They were all made using SPSS, but will be remade soon using R.<br>
 
 There are 7 projects decreasing in complexity, so number 7 being the least complex (at least in my opinion), while number 1 being the most complex. Each project will have the analysis done in SPSS along with the reasoning for the analysis in a short introduction to the concepts.
+
+I also have more projects I did, some using things such as Artificial Neural Networks or other type of classifiers.
 
 I am open to any questions or job offers and you can contact me here: alexandrubuzamat@yahoo.com
 
